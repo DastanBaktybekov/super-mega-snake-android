@@ -27,10 +27,15 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.005" />
 
+<<<<<<< HEAD
 
     <ImageView
         android:id="@+id/cancelBtn"
         onclick=onBackButtonClick()
+=======
+    <ImageView
+        android:id="@+id/cancelBtn"
+>>>>>>> e7a49e68ce4c8f7f266d0b59af4b98d842ec5abc
         style="@style/Widget.MaterialComponents.Button.Icon"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

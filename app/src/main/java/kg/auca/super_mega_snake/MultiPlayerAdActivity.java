@@ -22,9 +22,12 @@ public class MultiPlayerAdActivity extends AppCompatActivity {
         Intent myIntent = new Intent(MultiPlayerAdActivity.this, MultiPlayerGameActivity.class);
 
     }
+<<<<<<< HEAD
 
 
     public void onBackButtonClick (View view) {
         onBackPressed();
     }
+=======
+>>>>>>> e7a49e68ce4c8f7f266d0b59af4b98d842ec5abc
 }
